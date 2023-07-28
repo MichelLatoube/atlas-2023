@@ -1,0 +1,44 @@
+{
+	"id": 2023,
+	"name": "Yet another French Flag ",
+	"description": "Just a French flag, like so many others here.",
+	"links": {
+		"subreddit": [
+			"NapoleonFR"
+		]
+	},
+	"path": {
+		"250-256": [
+			[
+				-367,
+				462
+			],
+			[
+				-306,
+				462
+			],
+			[
+				-307,
+				587
+			],
+			[
+				-367,
+				587
+			],
+			[
+				-367,
+				526
+			],
+			[
+				-367,
+				461
+			]
+		]
+	},
+	"center": {
+		"250-256": [
+			-337,
+			524
+		]
+	}
+}
